@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @ZGStuff!
-I make stuff, and
-my most recent thing is a little piece of homebrew
-for the Evercade/Evercade VS, that is
-a full digital STORE for them!
+i am ZGstuff
 
-also ignore my fork for my edits on flowcanvas.
+a silly little dingus that does funny stuff on the internet
 
-bye :)
+you may also know me as Invis!
